@@ -1,0 +1,81 @@
+{
+    "dadosDoUsuario": {
+        "nome": "Joao",
+        "hasNotification": false,
+    },
+    "tiposDePix": [
+        {
+            "text": "Pagar QR Code",
+            "image": "qrcode.viewfinder"
+        },
+        {
+            "text": "Transferir",
+            "image": "arrow.left.arrow.right"
+        },
+        {
+            "text": "Receber",
+            "image": "dollarsign.arrow.circlepath"
+        },
+        {
+            "text": "Saque e Troco",
+            "image": "dollarsign.square"
+        }
+    ],
+    "acao": [
+        {
+            "text": "Pagar",
+            "simbolo": "barcode.viewfinder"
+        },
+        {
+            "text": "Transferir",
+            "simbolo": "arrow.left.arrow.right"
+        },
+        {
+            "text": "Segurança",
+            "simbolo": "lock.shield"
+        },
+        {
+            "text": "Todos",
+            "simbolo": "ellipsis"
+        },
+    ],
+    "balances": [
+        {
+            "flag": "brasil",
+            "title": "Real",
+            "simbolo": "R$",
+            "link": "Investir"
+        },
+        {
+            "flag": "eua",
+            "title": "Dólar",
+            "simbolo": "$",
+            "link": "Comprar Dólar"
+        },
+        {
+            "flag":  "euro",
+            "title": "Euro",
+            "simbolo": "€",
+            "link": "Comprar Euro"
+        },
+        {
+            "flag":  "mundo",
+            "title": "C6 Global Invest",
+            "simbolo": "US$",
+            "link": "Abrir Conta"
+        },
+        {
+            "flag":  "atomo",
+            "title": "C6 Átomos",
+            "simbolo": "Pts",
+            "link": "Trocar pontos"
+        },
+        {
+            "flag": "carbono",
+            "title": "Carbono",
+            "simbolo": "kg",
+            "link": "Compensar"
+        },
+    ]
+    
+}
