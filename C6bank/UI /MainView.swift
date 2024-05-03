@@ -37,7 +37,7 @@ struct MainView: View {
                 
                 Text("Beneficios")
                     .tabItem {
-                        Label("+pontos", systemImage: "handbag")
+                        Label("+Beneficios", systemImage: "handbag")
                     }
             }
             .toolbar(.visible, for: .tabBar)
